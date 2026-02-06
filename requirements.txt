@@ -1,0 +1,10 @@
+librosa
+numpy
+matplotlib
+noisereduce
+torch
+torchaudio
+timm
+transformers
+pandas
+requests
