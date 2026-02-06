@@ -30,4 +30,4 @@ python predict.py
 ```
 Debido a la densidad de parámetros (151 MB), el modelo final se encuentra alojado externamente: 👉 (https://1drv.ms/f/c/E911E7181C90BA7E/IgB4rFVopgK3Q5BSsBa93h1wATPtDnp63mZBBAgcxtDfntI?e=g05NqD)
 
-Desarrollado por: Cristian Javier Ibadango Avilez Institución: BioPhys-Tech Lab | Ibarra, Ecuador
+Desarrollado por: BioPhys-Tech Lab 
